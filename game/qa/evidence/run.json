@@ -1,0 +1,2488 @@
+{
+  "schemaVersion": 1,
+  "runId": "full-9d69374c-c7df-4958-9a54-25d82f300ebf",
+  "environment": {
+    "node": "v24.18.1",
+    "platform": "win32",
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "browser": "156.0.8078.4",
+    "url": "http://127.0.0.1:54579",
+    "build": {
+      "version": "1.1.0",
+      "files": {
+        "index.html": "e82e1177a1c5bfc185dbc69dad1532539a4f361b068ebf000b6ac63ae40948a4",
+        "style.css": "ff2f2651cc50fb2b8ec4015ec11ff69c09d50ccf1bc7fa9a69ae359489d35733",
+        "src/content.js": "fb9d7838a89cf4815ab7acc4f21157335543c3ab8540033f9251a2bbcbbdc71f",
+        "src/model.js": "147597122a7b4fcfa4b6f6b7427fa87ce2c10791890378509b762d517eae5289",
+        "src/pixel-art.js": "6c647f8ae7443dce7a1c23d1b7502dc6550cb9f4115e258856b20a768dfbc08a",
+        "src/scenes.js": "58640c90cb0e0d80e5a1ab47c4acb18aa43ae46b45290b9de4da33e4df67331a",
+        "src/widgets.js": "80755092b8aca2f31ceb646c8632f504a75aa289310fa13e0858869ff3a3ae2b",
+        "src/main.js": "2f2c989fd4be0e5ecb06bc2835b51b9a95f073a8a1dd120397f8a24a7f58dc8d"
+      }
+    }
+  },
+  "inputTrace": [
+    {
+      "action": "verify-start",
+      "at": "2026-11-03T03:48:51.224Z"
+    },
+    {
+      "action": "click",
+      "detail": "새 기록 시작"
+    },
+    {
+      "action": "click",
+      "detail": "세 가지 작업 표시 조사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "counterexample",
+      "detail": "미완성 퓨즈는 진행을 올리지 않음"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "○ 관찰 소켓",
+        "value": "C"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "△ 실험 소켓",
+        "value": "T"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "□ 기록 소켓",
+        "value": "S"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "같은 사각형, 다른 손잡이 조사"
+    },
+    {
+      "action": "click",
+      "detail": "H · 사각 축 · 톱니 홈"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "기록보관소 입장"
+    },
+    {
+      "action": "click",
+      "detail": "날짜 없는 네 장의 기록 조사"
+    },
+    {
+      "action": "click",
+      "detail": "기록 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "기록 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "기록 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "잉크가 아닌 빈칸 조사"
+    },
+    {
+      "action": "click",
+      "detail": "A 시계방향 회전"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "기록을 되돌리는 순서 조사"
+    },
+    {
+      "action": "click",
+      "detail": "봉인 해제"
+    },
+    {
+      "action": "click",
+      "detail": "전원 연결"
+    },
+    {
+      "action": "click",
+      "detail": "배수"
+    },
+    {
+      "action": "click",
+      "detail": "운반대 복귀"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "물결 한 줄의 원본 조사"
+    },
+    {
+      "action": "click",
+      "detail": "C · 오른쪽 홈 · 물결 한 줄"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "침수 온실 입장"
+    },
+    {
+      "action": "click",
+      "detail": "세 씨앗의 무게 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "씨앗 A 질량",
+        "value": 2
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "씨앗 B 질량",
+        "value": 3
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "씨앗 C 질량",
+        "value": 5
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "흘려보낸 열 눈금 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "1눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "2눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "3눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "4눈금 통",
+        "value": "E"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "이 장치 초기화"
+    },
+    {
+      "action": "counterexample",
+      "detail": "양은 맞아도 침전 경로가 틀리면 거부"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "1눈금 통",
+        "value": "E"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "2눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "3눈금 통",
+        "value": "E"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "4눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "꽃이 숨을 쉬는 한 박자 조사"
+    },
+    {
+      "action": "click",
+      "detail": "박자 4 선택"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "박자 5 선택"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "기록 저장"
+    },
+    {
+      "action": "reload",
+      "detail": "온실 복구 뒤 자동 저장 재개"
+    },
+    {
+      "action": "click",
+      "detail": "이어서"
+    },
+    {
+      "action": "click",
+      "detail": "가장 자란 화분 조사"
+    },
+    {
+      "action": "click",
+      "detail": "A · A · 2 → 5눈금"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "야간 천문대 입장"
+    },
+    {
+      "action": "click",
+      "detail": "이름 없는 네 별 조사"
+    },
+    {
+      "action": "click",
+      "detail": "좌표 3,4"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "꺾이는 빛의 주소 조사"
+    },
+    {
+      "action": "click",
+      "detail": "M1 거울 회전"
+    },
+    {
+      "action": "click",
+      "detail": "M2 거울 회전"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "같은 별처럼 보인 두 자리 조사"
+    },
+    {
+      "action": "click",
+      "detail": "좌표 4,3"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "잘못 인쇄된 노출 조사"
+    },
+    {
+      "action": "click",
+      "detail": "C · C · 남 → 동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "종이 인형극장 입장"
+    },
+    {
+      "action": "click",
+      "detail": "네 배역과 빈 객석 조사"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 W 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 W 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 W 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 B 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 B 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 F 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "열쇠는 한 자리에만 있다 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "시점",
+        "value": 2
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "중간 조각",
+        "value": 4
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "뒤 조각",
+        "value": 6
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "한 줄이 둘을 움직인다 조사"
+    },
+    {
+      "action": "click",
+      "detail": "C 줄 당기기"
+    },
+    {
+      "action": "click",
+      "detail": "A 줄 당기기"
+    },
+    {
+      "action": "click",
+      "detail": "B 줄 당기기"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "종이 악보의 세 박자 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "1번째 박자",
+        "value": "L"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "무인 우편 교환국 입장"
+    },
+    {
+      "action": "click",
+      "detail": "지워진 네 주소 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "원 봉투 주소",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "잎 봉투 주소",
+        "value": "S"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "별 봉투 주소",
+        "value": "E"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "물결 봉투 주소",
+        "value": "N"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "이미 도착한 편지 조사"
+    },
+    {
+      "action": "click",
+      "detail": "41 확인 수령"
+    },
+    {
+      "action": "click",
+      "detail": "41 재전송"
+    },
+    {
+      "action": "click",
+      "detail": "41 확인 수령"
+    },
+    {
+      "action": "click",
+      "detail": "42 새 전송"
+    },
+    {
+      "action": "click",
+      "detail": "42 확인 수령"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "일곱 박자 안에 닿는 길 조사"
+    },
+    {
+      "action": "click",
+      "detail": "A로 이동"
+    },
+    {
+      "action": "click",
+      "detail": "C로 이동"
+    },
+    {
+      "action": "click",
+      "detail": "T로 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "남는 우표 한 장 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "3표 우표 장수",
+        "value": 2
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "5표 우표 장수",
+        "value": 1
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "7표 우표 장수",
+        "value": 1
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "멈춘 시계 공방 입장"
+    },
+    {
+      "action": "click",
+      "detail": "작은 이와 큰 이 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "D 방향",
+        "value": "CCW"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "D 회전수",
+        "value": 1
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "세 시계의 겹치는 순간 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "전체 박자",
+        "value": 29
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "전력은 세 줄뿐 조사"
+    },
+    {
+      "action": "click",
+      "detail": "B 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "C 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "F 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "E 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "E 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "처음부터 있던 추 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "이동추 1",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "이동추 2",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "이동추 4",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "이동추 8",
+        "value": "R"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "출구 기관실 입장"
+    },
+    {
+      "action": "click",
+      "detail": "먼저 길, 나중에 박자 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 0 경로",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 1 경로",
+        "value": "R"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 2 경로",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 3 경로",
+        "value": "M"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "문이 보이는 자리 조사"
+    },
+    {
+      "action": "click",
+      "detail": "M3 거울 회전"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "시점",
+        "value": 3
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "중간 조각",
+        "value": 6
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "뒤 조각",
+        "value": 9
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "발신자를 잃은 마지막 기록 조사"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 S 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 S 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 S 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 R 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 R 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "제외할 수신 기록",
+        "value": "D"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "해제 순서 K 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "해제 순서 K 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "해제 순서 R 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "공용 보관함에 보존"
+    },
+    {
+      "action": "click",
+      "detail": "새 기록"
+    },
+    {
+      "action": "click",
+      "detail": "현재 기록 지우고 시작"
+    },
+    {
+      "action": "click",
+      "detail": "세 가지 작업 표시 조사"
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 0,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "△ 실험 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 1,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "□ 기록 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 2,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 검사"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 3,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "이 장치 초기화"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 4,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 5,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩에 핀 고정"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 6,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 7,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "힌트 한 단계 펼치기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 8,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩 전체 보기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 9,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 닫기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 10,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "○ 관찰 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 11,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "△ 실험 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 12,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "□ 기록 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 13,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 검사"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 14,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "이 장치 초기화"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 15,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 16,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩에 핀 고정"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 17,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 18,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "힌트 한 단계 펼치기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 19,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩 전체 보기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 20,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 닫기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 21,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "○ 관찰 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 22,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "△ 실험 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Tab",
+        "index": 23,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "□ 기록 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 0,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "△ 실험 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 1,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "○ 관찰 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 2,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 닫기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 3,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩 전체 보기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 4,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "힌트 한 단계 펼치기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 5,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 6,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩에 핀 고정"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 7,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 8,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "이 장치 초기화"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 9,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 검사"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 10,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "□ 기록 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 11,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "△ 실험 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 12,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "○ 관찰 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 13,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 닫기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 14,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩 전체 보기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 15,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "힌트 한 단계 펼치기"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 16,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 17,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "수첩에 핀 고정"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 18,
+        "inside": true,
+        "tag": "SUMMARY",
+        "label": ""
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 19,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "이 장치 초기화"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 20,
+        "inside": true,
+        "tag": "BUTTON",
+        "label": "장치 검사"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 21,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "□ 기록 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 22,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "△ 실험 소켓"
+      }
+    },
+    {
+      "action": "keyboard-focus",
+      "detail": {
+        "direction": "Shift+Tab",
+        "index": 23,
+        "inside": true,
+        "tag": "SELECT",
+        "label": "○ 관찰 소켓"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "○ 관찰 소켓",
+        "value": "C"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "힌트 한 단계 펼치기"
+    },
+    {
+      "action": "click",
+      "detail": "힌트 한 단계 펼치기"
+    },
+    {
+      "action": "click",
+      "detail": "3단계 · 직접 해답 보기"
+    },
+    {
+      "action": "click",
+      "detail": "수첩에 핀 고정"
+    },
+    {
+      "action": "click",
+      "detail": "기록 저장"
+    },
+    {
+      "action": "click",
+      "detail": "세 가지 작업 표시 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "○ 관찰 소켓",
+        "value": "T"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "한 단계 되돌리기"
+    },
+    {
+      "action": "click",
+      "detail": "이 장치 초기화"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "설정"
+    },
+    {
+      "action": "click",
+      "detail": "수동 저장 불러오기"
+    },
+    {
+      "action": "click",
+      "detail": "세 가지 작업 표시 조사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "설정"
+    },
+    {
+      "action": "click",
+      "detail": "설정 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "설정"
+    },
+    {
+      "action": "click",
+      "detail": "설정 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "새 기록 시작"
+    },
+    {
+      "action": "click",
+      "detail": "세 가지 작업 표시 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "○ 관찰 소켓",
+        "value": "C"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "△ 실험 소켓",
+        "value": "T"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "□ 기록 소켓",
+        "value": "S"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "같은 사각형, 다른 손잡이 조사"
+    },
+    {
+      "action": "click",
+      "detail": "H · 사각 축 · 톱니 홈"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "기록보관소 입장"
+    },
+    {
+      "action": "click",
+      "detail": "날짜 없는 네 장의 기록 조사"
+    },
+    {
+      "action": "click",
+      "detail": "기록 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "기록 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "기록 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "잉크가 아닌 빈칸 조사"
+    },
+    {
+      "action": "click",
+      "detail": "A 시계방향 회전"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "기록을 되돌리는 순서 조사"
+    },
+    {
+      "action": "click",
+      "detail": "봉인 해제"
+    },
+    {
+      "action": "click",
+      "detail": "전원 연결"
+    },
+    {
+      "action": "click",
+      "detail": "배수"
+    },
+    {
+      "action": "click",
+      "detail": "운반대 복귀"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "침수 온실 입장"
+    },
+    {
+      "action": "click",
+      "detail": "세 씨앗의 무게 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "씨앗 A 질량",
+        "value": 2
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "씨앗 B 질량",
+        "value": 3
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "씨앗 C 질량",
+        "value": 5
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "흘려보낸 열 눈금 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "1눈금 통",
+        "value": "E"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "2눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "3눈금 통",
+        "value": "E"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "4눈금 통",
+        "value": "W"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "꽃이 숨을 쉬는 한 박자 조사"
+    },
+    {
+      "action": "click",
+      "detail": "박자 5 선택"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "야간 천문대 입장"
+    },
+    {
+      "action": "click",
+      "detail": "이름 없는 네 별 조사"
+    },
+    {
+      "action": "click",
+      "detail": "좌표 3,4"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "꺾이는 빛의 주소 조사"
+    },
+    {
+      "action": "click",
+      "detail": "M1 거울 회전"
+    },
+    {
+      "action": "click",
+      "detail": "M2 거울 회전"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "같은 별처럼 보인 두 자리 조사"
+    },
+    {
+      "action": "click",
+      "detail": "좌표 4,3"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "종이 인형극장 입장"
+    },
+    {
+      "action": "click",
+      "detail": "네 배역과 빈 객석 조사"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 W 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 W 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 W 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 B 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 B 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "배역 순서 F 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "열쇠는 한 자리에만 있다 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "시점",
+        "value": 2
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "중간 조각",
+        "value": 4
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "뒤 조각",
+        "value": 6
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "한 줄이 둘을 움직인다 조사"
+    },
+    {
+      "action": "click",
+      "detail": "C 줄 당기기"
+    },
+    {
+      "action": "click",
+      "detail": "A 줄 당기기"
+    },
+    {
+      "action": "click",
+      "detail": "B 줄 당기기"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "무인 우편 교환국 입장"
+    },
+    {
+      "action": "click",
+      "detail": "지워진 네 주소 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "원 봉투 주소",
+        "value": "W"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "잎 봉투 주소",
+        "value": "S"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "별 봉투 주소",
+        "value": "E"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "물결 봉투 주소",
+        "value": "N"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "이미 도착한 편지 조사"
+    },
+    {
+      "action": "click",
+      "detail": "41 재전송"
+    },
+    {
+      "action": "click",
+      "detail": "41 확인 수령"
+    },
+    {
+      "action": "click",
+      "detail": "42 새 전송"
+    },
+    {
+      "action": "click",
+      "detail": "42 확인 수령"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "일곱 박자 안에 닿는 길 조사"
+    },
+    {
+      "action": "click",
+      "detail": "A로 이동"
+    },
+    {
+      "action": "click",
+      "detail": "C로 이동"
+    },
+    {
+      "action": "click",
+      "detail": "T로 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "멈춘 시계 공방 입장"
+    },
+    {
+      "action": "click",
+      "detail": "작은 이와 큰 이 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "D 방향",
+        "value": "CCW"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "D 회전수",
+        "value": 1
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "세 시계의 겹치는 순간 조사"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "전체 박자",
+        "value": 29
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "전력은 세 줄뿐 조사"
+    },
+    {
+      "action": "click",
+      "detail": "B 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "C 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "F 스위치"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "회랑"
+    },
+    {
+      "action": "click",
+      "detail": "출구 기관실 입장"
+    },
+    {
+      "action": "click",
+      "detail": "먼저 길, 나중에 박자 조사"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 0 경로",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 1 경로",
+        "value": "R"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 2 경로",
+        "value": "L"
+      }
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "박자 3 경로",
+        "value": "M"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "문이 보이는 자리 조사"
+    },
+    {
+      "action": "click",
+      "detail": "M3 거울 회전"
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "시점",
+        "value": 3
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "중간 조각",
+        "value": 6
+      }
+    },
+    {
+      "action": "number",
+      "detail": {
+        "name": "뒤 조각",
+        "value": 9
+      }
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "발신자를 잃은 마지막 기록 조사"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 S 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 S 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 S 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 R 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 R 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "사건 순서 D 앞쪽 이동"
+    },
+    {
+      "action": "select",
+      "detail": {
+        "name": "제외할 수신 기록",
+        "value": "D"
+      }
+    },
+    {
+      "action": "click",
+      "detail": "해제 순서 K 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "해제 순서 K 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "해제 순서 R 앞쪽 이동"
+    },
+    {
+      "action": "click",
+      "detail": "장치 검사"
+    },
+    {
+      "action": "click",
+      "detail": "장치 닫기"
+    },
+    {
+      "action": "click",
+      "detail": "발신자 보관함에 반환"
+    },
+    {
+      "action": "click",
+      "detail": "선택대 다시 보기"
+    }
+  ],
+  "observations": {
+    "launch": {
+      "id": "clean-title",
+      "inputs": [
+        "빈 브라우저 컨텍스트로 게임 주소 열기"
+      ],
+      "state": {
+        "title": "여섯 번째 새벽: 폐관 기록",
+        "newRecordVisible": true
+      }
+    },
+    "render": {
+      "id": "pixel-scene",
+      "inputs": [
+        "640×360 실제 Canvas 표본과 화면 캡처"
+      ],
+      "state": {
+        "distinctSampleColors": 279
+      },
+      "visual": "qa/evidence/title.png"
+    },
+    "input": {
+      "id": "fuse-input",
+      "inputs": [
+        "○·△·□ 퓨즈 선택",
+        "장치 검사"
+      ],
+      "state": {
+        "solvedRequired": 1,
+        "feedback": "✓ 복구 확인\n\n장치가 복구됐습니다. 다음 장치를 조사할 수 있습니다."
+      }
+    },
+    "coreLoop": {
+      "id": "all-29-puzzles",
+      "inputs": [
+        "P00-1",
+        "P00-2",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "O-1",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "O-2",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "O-3",
+        "R4-1",
+        "R4-2",
+        "R4-3",
+        "O-4",
+        "R5-1",
+        "R5-2",
+        "R5-3",
+        "O-5",
+        "R6-1",
+        "R6-2",
+        "R6-3",
+        "O-6",
+        "F-1",
+        "F-2",
+        "F-3"
+      ],
+      "state": {
+        "required": 23,
+        "optional": 6,
+        "observedProgress": "필수 23 / 23",
+        "endingChoices": "기록은 파괴되지 않습니다\n\n남은 기록의 행선지\n공용 보관함에 보존\n사본을 공용 전시에서 계속 읽을 수 있습니다.\n발신자 보관함에 반환\n사본은 개인함으로, 공용 전시는 접힙니다."
+      },
+      "visual": "qa/evidence/final-optics.png"
+    },
+    "outcome": {
+      "id": "preserve-ending",
+      "inputs": [
+        "공용 보관함에 보존"
+      ],
+      "state": "designed-outcome",
+      "ending": "preserve",
+      "sourceConfirmations": 6,
+      "visual": "qa/evidence/ending-preserve.png"
+    },
+    "restart": {
+      "id": "new-reception",
+      "inputs": [
+        "새 기록",
+        "현재 기록 지우고 시작"
+      ],
+      "state": "initial-state",
+      "required": 0,
+      "room": "접수대",
+      "visual": "qa/evidence/restart.png"
+    }
+  },
+  "diagnostics": [
+    {
+      "id": "actual-room-art",
+      "state": "PASS",
+      "detail": "정상 입력으로 방문한 공간의 복구 전후 실제 UI 캡처",
+      "frames": [
+        {
+          "room": "reception",
+          "phase": "restored",
+          "visual": "qa/evidence/room-reception-restored.png"
+        },
+        {
+          "room": "hall",
+          "phase": "first-visit",
+          "visual": "qa/evidence/room-hall.png"
+        },
+        {
+          "room": "archive",
+          "phase": "initial",
+          "visual": "qa/evidence/room-archive-initial.png"
+        },
+        {
+          "room": "archive",
+          "phase": "restored",
+          "visual": "qa/evidence/room-archive-restored.png"
+        },
+        {
+          "room": "greenhouse",
+          "phase": "initial",
+          "visual": "qa/evidence/room-greenhouse-initial.png"
+        },
+        {
+          "room": "greenhouse",
+          "phase": "restored",
+          "visual": "qa/evidence/room-greenhouse-restored.png"
+        },
+        {
+          "room": "observatory",
+          "phase": "initial",
+          "visual": "qa/evidence/room-observatory-initial.png"
+        },
+        {
+          "room": "observatory",
+          "phase": "restored",
+          "visual": "qa/evidence/room-observatory-restored.png"
+        },
+        {
+          "room": "theater",
+          "phase": "initial",
+          "visual": "qa/evidence/room-theater-initial.png"
+        },
+        {
+          "room": "theater",
+          "phase": "restored",
+          "visual": "qa/evidence/room-theater-restored.png"
+        },
+        {
+          "room": "postoffice",
+          "phase": "initial",
+          "visual": "qa/evidence/room-postoffice-initial.png"
+        },
+        {
+          "room": "postoffice",
+          "phase": "restored",
+          "visual": "qa/evidence/room-postoffice-restored.png"
+        },
+        {
+          "room": "clockwork",
+          "phase": "initial",
+          "visual": "qa/evidence/room-clockwork-initial.png"
+        },
+        {
+          "room": "clockwork",
+          "phase": "restored",
+          "visual": "qa/evidence/room-clockwork-restored.png"
+        },
+        {
+          "room": "exit",
+          "phase": "initial",
+          "visual": "qa/evidence/room-exit-initial.png"
+        },
+        {
+          "room": "exit",
+          "phase": "restored",
+          "visual": "qa/evidence/room-exit-restored.png"
+        }
+      ]
+    },
+    {
+      "id": "manual-save-undo-hints-pins",
+      "state": "PASS",
+      "detail": "수동 저장과 별도 자동 저장, 되돌림·초기화, 힌트3단계와 단서 핀의 복원"
+    },
+    {
+      "id": "pixel-ambient-motion",
+      "state": "PASS",
+      "detail": "움직임 켬에서 실제 픽셀이 변하고 저동작에서 같은 그림을 유지함"
+    },
+    {
+      "id": "keyboard-and-large-text",
+      "state": "PASS",
+      "detail": "실제 Tab/Shift+Tab·Esc, 글자 확대, 1920×1080 수평 넘침 없음"
+    },
+    {
+      "id": "optional-skipped-and-return",
+      "state": "PASS",
+      "detail": "선택6개를 전부 생략하고 필수23개로 반환 엔딩, 마지막 선택대로 재진입",
+      "requiredInputs": [
+        "P00-1",
+        "P00-2",
+        "R1-1",
+        "R1-2",
+        "R1-3",
+        "R2-1",
+        "R2-2",
+        "R2-3",
+        "R3-1",
+        "R3-2",
+        "R3-3",
+        "R4-1",
+        "R4-2",
+        "R4-3",
+        "R5-1",
+        "R5-2",
+        "R5-3",
+        "R6-1",
+        "R6-2",
+        "R6-3",
+        "F-1",
+        "F-2",
+        "F-3"
+      ],
+      "visual": "qa/evidence/ending-return.png"
+    },
+    {
+      "id": "browser-health",
+      "state": "PASS",
+      "pageErrors": [],
+      "failedResources": [],
+      "externalRequests": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "sixth-dawn",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "여섯 번째 새벽: 폐관 기록 — 로컬 2D 도트 방탈출",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/model.test.mjs tests/art.test.mjs",
+    "build": "node tools/build.mjs",
+    "verify": "node tests/verify.mjs"
+  },
+  "engines": { "node": ">=22" },
+  "devDependencies": { "@playwright/test": "1.64.1" }
+}

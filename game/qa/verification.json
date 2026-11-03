@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 3,
+  "status": "PASS",
+  "verify": {
+    "command": "npm.cmd run verify",
+    "exitCode": 0,
+    "suites": [
+      {
+        "name": "model",
+        "exitCode": 0
+      },
+      {
+        "name": "build",
+        "exitCode": 0
+      }
+    ]
+  },
+  "completeRun": {
+    "id": "full-9d69374c-c7df-4958-9a54-25d82f300ebf",
+    "cleanContext": true,
+    "terminal": "designed-outcome",
+    "restart": "initial-state",
+    "evidence": "qa/evidence/run.json"
+  },
+  "checks": {
+    "launch": "PASS",
+    "render": "PASS",
+    "input": "PASS",
+    "coreLoop": "PASS",
+    "outcome": "PASS",
+    "restart": "PASS"
+  },
+  "limitations": [
+    {
+      "scope": "human playtest",
+      "reason": "알고 있는 풀이로 진행한 자동 검증이다. 초심자의 발견 가능성·재미·4~6시간 분량은 검증하지 않았다."
+    },
+    {
+      "scope": "target device",
+      "reason": "Windows Chromium 자동화로 검증. 다른 브라우저·실제 스크린리더·배포용 데스크톱 패키지는 미검증."
+    },
+    {
+      "scope": "art and sound",
+      "reason": "직접 그린 도트 회색상자와 합성 장치음. 최종 원화·환경음·음악·성우는 포함하지 않는다."
+    }
+  ]
+}

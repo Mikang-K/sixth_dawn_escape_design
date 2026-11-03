@@ -1,0 +1,327 @@
+{
+  "scope": "code-native-art-review-fixtures",
+  "browser": "156.0.8078.4",
+  "frames": [
+    {
+      "id": "reception-initial",
+      "room": "reception",
+      "restored": false,
+      "colors": 78,
+      "renderMs": [
+        0.19999999925494194,
+        0,
+        0.10000000149011612,
+        0.19999999925494194,
+        0,
+        0.19999999925494194,
+        0
+      ],
+      "file": "qa/art-before/reception-initial.png",
+      "sha256": "d49f20db2305c1f2c6195e23bc8b623e7b1827e95a26526c4c84e4c5df0bb6e8"
+    },
+    {
+      "id": "reception-restored",
+      "room": "reception",
+      "restored": true,
+      "colors": 77,
+      "renderMs": [
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0.10000000149011612
+      ],
+      "file": "qa/art-before/reception-restored.png",
+      "sha256": "3c4141724cf2f9acdad2cd8c80e6b2d03ff5c596876329518506024b335a8e77"
+    },
+    {
+      "id": "hall-initial",
+      "room": "hall",
+      "restored": false,
+      "colors": 109,
+      "renderMs": [
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.10000000149011612,
+        0.09999999962747097,
+        0
+      ],
+      "file": "qa/art-before/hall-initial.png",
+      "sha256": "2a9625a6edff5ef0465a0681ba28cd42966b748598aa6de23eed0c868ed685d9"
+    },
+    {
+      "id": "hall-restored",
+      "room": "hall",
+      "restored": true,
+      "colors": 43,
+      "renderMs": [
+        0.10000000149011612,
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097,
+        0
+      ],
+      "file": "qa/art-before/hall-restored.png",
+      "sha256": "9876f7bc417342fec70e29defe678fce1c437f0219f351bce5ac57cb9984dde0"
+    },
+    {
+      "id": "archive-initial",
+      "room": "archive",
+      "restored": false,
+      "colors": 52,
+      "renderMs": [
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0.10000000149011612,
+        0,
+        0.09999999962747097,
+        0.09999999962747097
+      ],
+      "file": "qa/art-before/archive-initial.png",
+      "sha256": "f9e9cfc3c2b0f37375c5b793c4a8a702b3e7359fd486f84caa385e224df55308"
+    },
+    {
+      "id": "archive-restored",
+      "room": "archive",
+      "restored": true,
+      "colors": 53,
+      "renderMs": [
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0.2000000011175871,
+        0
+      ],
+      "file": "qa/art-before/archive-restored.png",
+      "sha256": "524a96cb78ba149c471476cc51acb756fec5aff5ed7bfe74f5d1b8dbd0bcd590"
+    },
+    {
+      "id": "greenhouse-initial",
+      "room": "greenhouse",
+      "restored": false,
+      "colors": 222,
+      "renderMs": [
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0,
+        0.09999999962747097
+      ],
+      "file": "qa/art-before/greenhouse-initial.png",
+      "sha256": "e01bbafd711d05b4cc18135282f8c5994d05b5aa7f94038bcfa3279af06cdbdc"
+    },
+    {
+      "id": "greenhouse-restored",
+      "room": "greenhouse",
+      "restored": true,
+      "colors": 223,
+      "renderMs": [
+        0.09999999962747097,
+        0.09999999962747097,
+        0.10000000149011612,
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.09999999962747097
+      ],
+      "file": "qa/art-before/greenhouse-restored.png",
+      "sha256": "1250a4a6408d993de12df50a33c4532feb8569717bd38909a7ab3fe8308b1d5f"
+    },
+    {
+      "id": "observatory-initial",
+      "room": "observatory",
+      "restored": false,
+      "colors": 131,
+      "renderMs": [
+        0.19999999925494194,
+        0,
+        0,
+        0,
+        0.09999999962747097,
+        0,
+        0.09999999962747097
+      ],
+      "file": "qa/art-before/observatory-initial.png",
+      "sha256": "fff14d50bfd69f9ce816b644338dec14f927b3b0ff116a33b990b8030b251015"
+    },
+    {
+      "id": "observatory-restored",
+      "room": "observatory",
+      "restored": true,
+      "colors": 132,
+      "renderMs": [
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0,
+        0.09999999962747097
+      ],
+      "file": "qa/art-before/observatory-restored.png",
+      "sha256": "33a388bc20ef5b938adb28068565b2bd331f3a7a6ec8238d883dda610308aa62"
+    },
+    {
+      "id": "theater-initial",
+      "room": "theater",
+      "restored": false,
+      "colors": 43,
+      "renderMs": [
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0,
+        0.09999999962747097,
+        0,
+        0
+      ],
+      "file": "qa/art-before/theater-initial.png",
+      "sha256": "01e6cb189c03aa8853046a08049da8aa53749148c51da037f1a079f1aed8d166"
+    },
+    {
+      "id": "theater-restored",
+      "room": "theater",
+      "restored": true,
+      "colors": 43,
+      "renderMs": [
+        0.09999999962747097,
+        0,
+        0,
+        0.09999999962747097,
+        0,
+        0.19999999925494194,
+        0
+      ],
+      "file": "qa/art-before/theater-restored.png",
+      "sha256": "cc37a98ec22ea40d2d91ed20d7ecbd2b1c7d2270526d5eb405d72d49dfbc914b"
+    },
+    {
+      "id": "postoffice-initial",
+      "room": "postoffice",
+      "restored": false,
+      "colors": 98,
+      "renderMs": [
+        0.19999999925494194,
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0.10000000149011612,
+        0.09999999962747097,
+        0
+      ],
+      "file": "qa/art-before/postoffice-initial.png",
+      "sha256": "c47fb6bb4090b75b6494f961b08e4ae5ff04ef54868d7691d8f89254dc67becb"
+    },
+    {
+      "id": "postoffice-restored",
+      "room": "postoffice",
+      "restored": true,
+      "colors": 99,
+      "renderMs": [
+        0.10000000149011612,
+        0.09999999962747097,
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0.10000000149011612
+      ],
+      "file": "qa/art-before/postoffice-restored.png",
+      "sha256": "2e9c7c3447f3e4317654c1c90367335d11127b9286d9bfea314ac949b14a41ee"
+    },
+    {
+      "id": "clockwork-initial",
+      "room": "clockwork",
+      "restored": false,
+      "colors": 89,
+      "renderMs": [
+        0.10000000149011612,
+        0.19999999925494194,
+        0.19999999925494194,
+        0.10000000149011612,
+        0.2999999988824129,
+        0.2000000011175871,
+        0.19999999925494194
+      ],
+      "file": "qa/art-before/clockwork-initial.png",
+      "sha256": "811f9ddfd117e815a7320a0aad63f21ef2fb6b0c682dd684ee3de56a8c0cf802"
+    },
+    {
+      "id": "clockwork-restored",
+      "room": "clockwork",
+      "restored": true,
+      "colors": 93,
+      "renderMs": [
+        0.2000000011175871,
+        0.09999999962747097,
+        0.19999999925494194,
+        0.10000000149011612,
+        0.2999999988824129,
+        0.09999999962747097,
+        0.2000000011175871
+      ],
+      "file": "qa/art-before/clockwork-restored.png",
+      "sha256": "707e39710d1f67dd15beafe51bfcb7934d9867399724f4931353017f958a5151"
+    },
+    {
+      "id": "exit-initial",
+      "room": "exit",
+      "restored": false,
+      "colors": 56,
+      "renderMs": [
+        0,
+        0,
+        0.09999999962747097,
+        0,
+        0.09999999962747097,
+        0.09999999962747097,
+        0
+      ],
+      "file": "qa/art-before/exit-initial.png",
+      "sha256": "a1e63348600751094fb7f82f50a12ee84b9abaa10f76afdc413d4f236f8b72c2"
+    },
+    {
+      "id": "exit-restored",
+      "room": "exit",
+      "restored": true,
+      "colors": 146,
+      "renderMs": [
+        0,
+        0.09999999962747097,
+        0,
+        0,
+        0.09999999962747097,
+        0,
+        0.09999999962747097
+      ],
+      "file": "qa/art-before/exit-restored.png",
+      "sha256": "2e9c91af6cdd4e0b1af3ca7c9b50bbfe73f011fbba0690cbf36239ca289ccec3"
+    },
+    {
+      "id": "ending-preserve",
+      "room": "ending",
+      "ending": "preserve",
+      "file": "qa/art-before/ending-preserve.png",
+      "sha256": "ba9fcf2412ac5af3fa780c80809e46171b32a760d6352da1ea1de4d21c81be1f"
+    },
+    {
+      "id": "ending-return",
+      "room": "ending",
+      "ending": "return",
+      "file": "qa/art-before/ending-return.png",
+      "sha256": "5a0231c4a1739d9c6e97a0996082579f626a486b9a2f7bff7b64415fc6202ca9"
+    }
+  ],
+  "sceneSourceHash": "167f7f106eab8ea9996f430e32cfc6fdf69a3d5bd65a9b73b9f60abc1628eacd"
+}
